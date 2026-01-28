@@ -1,0 +1,5 @@
+Following a literature review, we have decided to examine three distinct approaches to forecasting stock values. 
+1) Neural Network + Long Short-Term Memory
+2) Convolutional Neural Network combined with Long Short-Term Memory
+3) Autoregressive Integrated Moving Average (ARIMA).
+After running above algorithms, ARIMA was chosen.  
