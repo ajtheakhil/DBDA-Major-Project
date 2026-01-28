@@ -1,0 +1,1 @@
+Python file to generate Open, High, Low, Close, and Volume of Nifty 200 stocks for 1 year (252 working days) using yahoo finance module.
