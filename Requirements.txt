@@ -1,0 +1,16 @@
+# --- Data Retrieval & Processing ---
+yfinance
+pandas
+numpy
+pyspark
+
+# --- Machine Learning & Statistics ---
+pmdarima
+scikit-learn
+statsmodels
+
+# --- Orchestration (Optional in this file) ---
+apache-airflow==2.7.1
+
+# --- Utilities ---
+joblib
